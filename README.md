@@ -30,4 +30,5 @@ THEN the saved events persist <br />
 
 ## Demo
 
-![Demo](./demo/demo.png =250x200)
+![Demo]<img src="./demo/demo.png" width="400" height="600>
+
