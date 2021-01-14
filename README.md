@@ -30,4 +30,4 @@ THEN the saved events persist <br />
 
 ## Demo
 
-![Demo](./demo/demo.png)
+![Demo](./demo/demo.png =250x200)
