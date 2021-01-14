@@ -1,4 +1,4 @@
-# Wook Day Scheduler
+# Work Day Scheduler
 
 ## Application
 As an employee witha busy schedule, this website enables you to plan your dayso that you can manage your time effectively for today.
