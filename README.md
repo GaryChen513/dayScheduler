@@ -9,7 +9,7 @@ As an employee witha busy schedule, this website enables you to plan your dayso 
 ## Third Party Library Used
 Moment.js <br />
 Bootstrap 4.3.1 <br />
-Jquery <br />
+jQuery <br />
 Fontawesome <br />
 
 
